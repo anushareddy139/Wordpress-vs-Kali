@@ -35,9 +35,9 @@ Time spent: **9** hours spent in total
     ```
   - [x] Affected source code:
     - media.php
-1. (Required) Vulnerability Name or ID
+1. (Required) User Account Enumaration
   - [x] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: Enumarating Users
     - Tested in version: 4.2.2
     - Fixed in version: Not fixed
   - [x] GIF Walkthrough: [![Image from Gyazo](https://i.gyazo.com/75f3781e86ee15a7cec0073b6119c2ed.gif)](https://gyazo.com/75f3781e86ee15a7cec0073b6119c2ed)
