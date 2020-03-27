@@ -9,12 +9,12 @@ Time spent: **X** hours spent in total
 ## Pentesting Report
 
 1. (Required)  Authenticated Stored Cross-Site Scripting (XSS)
-  - [ ] Summary: 
+  - [x ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
     - Fixed in version: 4.3.2
-  - [ ] GIF Walkthrough: ![image](https://i.gyazo.com/12ebc32af0d6a198aa6f980135175fcf.gif)
-  - [ ] Steps to recreate: 
+  - [x ] GIF Walkthrough: ![image](https://i.gyazo.com/12ebc32af0d6a198aa6f980135175fcf.gif)
+  - [ x] Steps to recreate: 
     - Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
     ```
      <a href="[caption code=">]</a><a title=" onmouseover=alert('exploited')  ">link</a>
