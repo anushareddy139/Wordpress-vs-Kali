@@ -13,7 +13,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
     - Fixed in version: 4.3.2
-  - [ ] GIF Walkthrough: ![image`](https://i.gyazo.com/12ebc32af0d6a198aa6f980135175fcf.mp4)
+  - [ ] GIF Walkthrough: ![image](https://i.gyazo.com/12ebc32af0d6a198aa6f980135175fcf.gif)
   - [ ] Steps to recreate: 
     - Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
     ```
