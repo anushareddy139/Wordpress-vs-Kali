@@ -13,7 +13,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
     - Fixed in version: 4.3.2
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://i.gyazo.com/12ebc32af0d6a198aa6f980135175fcf.mp4
   - [ ] Steps to recreate: 
     - Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
     ```
@@ -21,7 +21,7 @@ Time spent: **X** hours spent in total
     ```
 
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://klikki.fi/adv/wordpress3.html)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
