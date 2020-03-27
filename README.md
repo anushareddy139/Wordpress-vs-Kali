@@ -15,7 +15,7 @@ Time spent: **X** hours spent in total
     - Fixed in version: 4.3.2
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-    -Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
+    - Get posting privileges from admin, then exploit how HTML is processed and paste the following code onto the post: 
     ```
      <a href="[caption code=">]</a><a title=" onmouseover=alert('exploited')  ">link</a>
     ```
