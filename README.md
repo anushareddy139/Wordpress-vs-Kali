@@ -27,7 +27,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
     - Fixed in version: 4.7.0
-  - [x] GIF Walkthrough: 
+  - [x] GIF Walkthrough: [![Image from Gyazo](https://i.gyazo.com/42f2efeaa5d5ed7cc471d78e18178fd4.gif)](https://gyazo.com/42f2efeaa5d5ed7cc471d78e18178fd4)
   - [x] Steps to recreate: 
   - Comment the following on a post: 
     ```
