@@ -38,10 +38,14 @@ Time spent: **X** hours spent in total
 1. (Required) Vulnerability Name or ID
   - [x] Summary: 
     - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [x] GIF Walkthrough: 
+    - Tested in version: 4.2.2
+    - Fixed in version: Not fixed
+  - [x] GIF Walkthrough: [![Image from Gyazo](https://i.gyazo.com/75f3781e86ee15a7cec0073b6119c2ed.gif)](https://gyazo.com/75f3781e86ee15a7cec0073b6119c2ed)
   - [x] Steps to recreate: 
+    - Simply log in with different usernames to see whether the user exists. Unfortunately this is also possible through permalinks:
+    ```
+    http://example.com/author/[insertusernamehere]
+    ```
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
@@ -54,7 +58,7 @@ List any additional assets, such as scripts or files
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+GIFs created with [Gyazo](http://www.gyazo.com).
 
 ## Notes
 
@@ -62,7 +66,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Jong Shen Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
