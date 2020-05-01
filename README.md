@@ -1,6 +1,6 @@
 # Wordpress-vs-Kali
 Week 7
-# Project 7 - WordPress Pentesting
+# Project 7 - WordPress Pentesting 
 
 Time spent: **9** hours spent in total
 
