@@ -1,12 +1,8 @@
-# Wordpress-vs-Kali
-Week 7
-# Project 7 - WordPress Pentesting 
 
-Time spent: **9** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
-## Pentesting Report
+## Report
 
 1. (Required)  Authenticated Stored Cross-Site Scripting (XSS)
   - [x] Summary: 
@@ -49,10 +45,6 @@ Time spent: **9** hours spent in total
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
-## Assets
-
-List any additional assets, such as scripts or files
-
 ## Resources
 
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
@@ -60,13 +52,9 @@ List any additional assets, such as scripts or files
 
 GIFs created with [Gyazo](http://www.gyazo.com).
 
-## Notes
-
-Describe any challenges encountered while doing the work
-
 ## License
 
-    Copyright [2020] [Jong Shen Lee]
+    Copyright [2020] [Sam Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
